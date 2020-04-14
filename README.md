@@ -1,5 +1,5 @@
 # kernelcon-2020-badge
-## built by @zonksec and @scotcsec
+### built by @zonksec and @scotcsec
 the badge was a dual pcb design with mouting hardware carfully located to make it hold a custom image reel. controlled by an atmel atmeg328p-au. powered by 3 AAA batteries. the 9 LEDs are addressable RGBs (apa102). two act as backlights for the custom image reel. the badge offered a serial port to play a ctf mini game, but the mini game was removed when the conference went virtual. the badge was programed via an ICSP interface using pogo pins (see conference talk for more details). EEPROM was used to save mode type between power cycles. mode indicator functionality was added to better track what mode you are in. a button can be used to change modes, which are the following:
 * fader mode, each LED faded between colors independently 
 * freeze of of whatever the previous state was
