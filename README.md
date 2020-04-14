@@ -17,4 +17,4 @@ Check out "/reels" for what images were used to make the custom reel.
 
 ![picture](images/badge.gif)
 ![picture](images/badges.jpg)
-![picture](images/full reel.jpg)
+![picture](images/fullreel.jpg)
