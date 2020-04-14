@@ -14,6 +14,7 @@ the badge was a dual pcb design with mouting hardware carfully located to make i
 * pseudorandom selection of led made white (twinkle twinkle)
 
 Check out "/reels" for what images were used to make the custom reel.
+Conference talk: https://youtu.be/VYY81450_RM
 
 
 ![picture](images/badge.gif)
